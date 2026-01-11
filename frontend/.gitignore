@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+.env.local
+.env.*.local
+
+# Ignore Node modules and build artifacts
+node_modules/
+dist/
+build/
+.next/
+
+# OS-specific
+.DS_Store
+Thumbs.db

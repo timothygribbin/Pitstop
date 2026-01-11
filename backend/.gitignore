@@ -1,0 +1,26 @@
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Node / build artifacts
+# =========================
+node_modules/
+dist/
+build/
+
+# =========================
+# Logs
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
