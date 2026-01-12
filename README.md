@@ -11,24 +11,29 @@ Features:
 User Authentication via Firebase
 
 Trip Management:
+
 Create trips with start/end locations and dates
 Invite your friends to the trip
 Permissions for the creator and participants
 
 Proposals and Voting:
+
 Search for stops along the route already being taken, showing those with the lowest detour time first using the Google Maps API.
 Search for songs through the Spotify API.
 Each participant in the trip gets a chance to vote on the proposed stops and songs, building a shared playlist and adding stops to the route.
 
 Expense Tracking: 
+
 Add and view shared trip expenses
 Full expense history for each trip
 
 Maps & Routing:
+
 Map rendering through MapLibre
 Distance calculation and size fitting the map to show the entire route
 
 Frontend: 
+
 Next.js
 React 
 Javascript (technically Typescript, but all valid JS is valid TS)
@@ -38,6 +43,7 @@ Google Maps JavaScript API
 Axios
 
 Backend:
+
 Node.js
 Express
 Typescript (JS, but same idea)
