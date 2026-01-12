@@ -1,8 +1,8 @@
 import { RequestHandler, Router } from 'express';
 import { 
- submitVote, 
- getVoteCounts, 
- getUserVotes 
+    submitVote, 
+    getVoteCounts, 
+    getUserVotes 
 } from '../controllers/votes.controller';
 
 const router = Router();
